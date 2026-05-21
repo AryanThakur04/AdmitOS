@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fluent-archway-497013-j0",
+  "private_key_id": "ec5f86767cfc55844638033ae9245120cc15ca7c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDqA61qjF0nvDry\nCIHnEaTDz+t0Qd8pcJm5DdKV4xNcYtcxIdWoSq7avnGBkzDwg6O7a+se40CRUaWY\nnm8v+pgmLy9xWrRlAIUDpRKPUQjiafkv0c234NZeM6o54UhJf7GXiw4uC1M4qPCT\njtyMkGr6nleQfCfyu3XZDv8skS3iHQi2DVxOJEqAWbz51bwpYICLCEQu+BiC7bGV\nCHlrMH6EG/vr2FtOSlY7RXj6Cxhq2MI3ypWFAoSjKK+2IooUseB70hQeuMhdh6Zd\n7zhT5Q/RRVBnqi4Lz+7oA1kshqLhrihecfEIuQE1PBAcCj0ysRYCRGKvU/VVjUF3\n8GLudOEbAgMBAAECggEADA6/plHJ98ldfPZIDmpJg91eugRhRaolNMFfLGHuFkCL\nHfj3huhYm7GPktszfL3Yd3u9oNj/83zlfDh0Bvpxt7LB59e1aJur2Hg7VvvlHUvT\nwk1pI1eIAOqTxs+yZ2pKi3U0XqL7jFvU3Li4gtwEgLO2VB3rLdKcfxNxJBBTvbOJ\nooQxS0nFs2Of93r3BFUvAs+gRk+S6a6f3iIuB0e7SpSaOhryVyS2RTp0kcbAploJ\nacSTnZoiGjQjVJLxt77CA22XbuISJFGdoUeK1oNl2fA0g70DTPey3wM9qY3Zvkn4\nUnRbBW9EG78iWOuRnWYxSLsOT0eJTKUlNI7E05FSwQKBgQD+I3VARnXlmodFUDUI\n4N+nClYu6SfHmchTsa8K1VfzBipG9SRqmEs2/4XH5HSmpve+kdB7v4PtqUA72Tl3\nJwiOjx75Ar1oR8CibfWPKd/Go0iAlgTYY9ZUQ9i+kFzDX/j5n3mV81qAEMosjMrl\nMI2hidxI9ev9auEJ56Vjn5A7WQKBgQDrunvsCQaQS40xvciZnwjQZ99Gfog7lpt0\nVNnA1g+pdZUn3tbmqqqXWoDnpqayRdQNnA/E0ZzvzTjBzcH2pNisyxG+hdJrjGzs\nyuPwg32WCsbE946ads3EWCJded+ChV5RKZnAqAb9+PTK/hcQAU3TxWe/qkks6Qgk\nZAVjcdiVkwKBgBLAwxIvINwEfx7aQE+baGWHGbz0b38HFgU3A1elTowcVFpQFJPZ\nERPJ3zFU5la102o4kE3RYAbVimvgJ6FnO/ZpETwGu7tKMCjMPGaIDH835U23xDvD\ngjlNmFzXgkDYgCLLZclu36q7km+fJAmtf4YACkVIAFX+4QQ+F7I2QAphAoGBAL0M\nVrvqVSA95yOAL7O8DmaNF0xCx+D6HPwD3IrBYdgmm5NZLIHbV2qAw6aESWXpiHHN\nufu/m5vZuu36pNa4R6j0RuvECQgFm4mgAYPvADXnuJdYbj5Ejysq/4x15CGZ8hUn\nRs5yMwFVuoRdmINWeGMhCt50o7DnxobgzE1/jRIPAoGARBwJxJoe20wh1gMzBGe5\nfbVA9Mm/R7OVhpCiXcjPSKxCJpZzXu2szhlwR7hpEAxjAqleuMIBg8QgqiqukxYx\nNh6bAQS1nbkxCDnwGIUpQaab5uUM0AJtPx/G1Wc7daIVjJZzUjDm9AciioESxylH\nsB1g3kfUat2s+n1KqLPKdcs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "os-268@fluent-archway-497013-j0.iam.gserviceaccount.com",
+  "client_id": "102121167904645806978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/os-268%40fluent-archway-497013-j0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
