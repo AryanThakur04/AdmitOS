@@ -1,0 +1,74 @@
+:root {
+  --bg: #0f1117;
+  --surface: #1a1d27;
+  --surface2: #242836;
+  --border: #2e3348;
+  --text: #f1f5f9;
+  --muted: #94a3b8;
+  --primary: #6366f1;
+  --primary2: #8b5cf6;
+  --hot: #ef4444;
+  --medium: #f59e0b;
+  --cold: #3b82f6;
+  --success: #22c55e;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+a { color: var(--primary); text-decoration: none; }
+button { cursor: pointer; font-family: inherit; }
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.25rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+.badge.hot { background: rgba(239,68,68,0.2); color: var(--hot); }
+.badge.medium { background: rgba(245,158,11,0.2); color: var(--medium); }
+.badge.cold { background: rgba(59,130,246,0.2); color: var(--cold); }
+
+.btn {
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  border: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+.btn-primary {
+  background: linear-gradient(135deg, var(--primary), var(--primary2));
+  color: white;
+}
+.btn-ghost {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--border);
+}
+
+input, select {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.6rem 0.8rem;
+  border-radius: 8px;
+  width: 100%;
+}
+
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+th { color: var(--muted); font-size: 0.8rem; font-weight: 600; }
