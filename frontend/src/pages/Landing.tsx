@@ -89,9 +89,6 @@ export default function Landing() {
             Read Docs
           </a>
         </div>
-        <p style={{ marginTop: 20, fontSize: "0.85rem", color: "var(--muted)" }}>
-          Demo: admin@admitos.demo / demo1234
-        </p>
       </section>
 
       <section style={{ padding: "3rem 2rem", maxWidth: 1100, margin: "0 auto" }}>
